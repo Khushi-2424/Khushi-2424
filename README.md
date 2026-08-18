@@ -57,13 +57,13 @@ I’m a Software Engineer who enjoys understanding how things work beneath the a
 ## Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/khushi-m-312bb9341">
+  <a href="https://www.linkedin.com/in/khushi-m-312bb9341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:khushimeshram.contact@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Khushi-2424">
+  <a href="https://github.com/Khushi-2424" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
