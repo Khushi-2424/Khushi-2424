@@ -54,14 +54,6 @@ I’m a Software Engineer who enjoys understanding how things work beneath the a
 
 ---
 
-## Languages Used
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khushi-2424&layout=compact&hide_border=true&theme=transparent" />
-</p>
-
----
-
 ## Connect
 
 <p align="center">
